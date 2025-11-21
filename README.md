@@ -31,6 +31,8 @@ AI-driven development is transforming how we write code. This curated list helps
 
 GitHub Copilot is an AI pair programmer that helps you write code faster and with less work.
 
+> 💡 **Looking for inspiration?** Check out [GitHub's Awesome Copilot](https://github.com/github/awesome-copilot) - a curated list of examples, guides, and best practices for GitHub Copilot.
+
 ### Prerequisites
 
 - A GitHub account
