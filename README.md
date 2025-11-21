@@ -10,6 +10,8 @@ AI-driven development is transforming how we write code. This curated list helps
 - [Useful Tools](#useful-tools)
   - [AI Code Assistants](#ai-code-assistants)
   - [AI-Powered IDEs and Extensions](#ai-powered-ides-and-extensions)
+  - [Code Review and Quality](#code-review-and-quality)
+  - [Documentation and Learning](#documentation-and-learning)
 - [Work Online](#work-online)
 - [Work Locally](#work-locally)
 - [Patterns and Best Practices](#patterns-and-best-practices)
@@ -84,7 +86,7 @@ GitHub Copilot is an AI pair programmer that helps you write code faster and wit
 
 - [CodeRabbit](https://coderabbit.ai/) - AI-powered code review assistant.
 - [Codacy](https://www.codacy.com/) - Automated code quality reviews with AI insights.
-- [DeepCode](https://www.deepcode.ai/) - AI-powered code review tool (now part of Snyk).
+- [Snyk Code](https://snyk.io/product/snyk-code/) - AI-powered code review and security analysis (formerly DeepCode).
 
 ### Documentation and Learning
 
