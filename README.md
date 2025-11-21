@@ -7,6 +7,10 @@ AI-driven development is transforming how we write code. This curated list helps
 ## Contents
 
 - [Getting Started with GitHub Copilot](#getting-started-with-github-copilot)
+  - [Prerequisites](#prerequisites)
+  - [Setup Steps](#setup-steps)
+  - [Understanding Copilot Modes](#understanding-copilot-modes)
+  - [Tips for Effective Use](#tips-for-effective-use)
 - [Useful Tools](#useful-tools)
   - [AI Code Assistants](#ai-code-assistants)
   - [AI-Powered IDEs and Extensions](#ai-powered-ides-and-extensions)
@@ -62,6 +66,37 @@ GitHub Copilot is an AI pair programmer that helps you write code faster and wit
    - Let Copilot suggest code
    - Press `Tab` to accept suggestions or `Esc` to dismiss
    - Use `Alt+]` or `Option+]` to cycle through suggestions
+
+### Understanding Copilot Modes
+
+GitHub Copilot offers three distinct modes to match different development workflows. Learn more in the [official guide on Copilot modes](https://github.blog/ai-and-ml/github-copilot/copilot-ask-edit-and-agent-modes-what-they-do-and-when-to-use-them/).
+
+#### Ask Mode
+Ask mode is your AI pair programmer for questions and explanations. Use it when you need:
+- Explanations of code snippets or concepts
+- Answers to programming questions
+- Guidance on best practices
+- Help understanding error messages
+
+**When to use**: Learning new concepts, debugging, or seeking clarification without modifying code.
+
+#### Edit Mode
+Edit mode helps you make direct changes to your code with AI assistance. Use it when you need:
+- Refactoring existing code
+- Implementing specific changes across multiple lines
+- Converting code between formats or patterns
+- Fixing bugs with guided assistance
+
+**When to use**: Making targeted changes to existing code with AI suggestions that you can review and accept.
+
+#### Agent Mode
+Agent mode is an autonomous AI that can handle complex, multi-step tasks. Use it when you need:
+- End-to-end feature implementation
+- Complex refactoring across multiple files
+- Automated code generation for entire components
+- Orchestration of multiple related changes
+
+**When to use**: Tackling larger tasks that require multiple coordinated changes or when you want the AI to take more initiative.
 
 ### Tips for Effective Use
 
