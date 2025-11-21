@@ -13,7 +13,14 @@ AI-driven development is transforming how we write code. This curated list helps
   - [Code Review and Quality](#code-review-and-quality)
   - [Documentation and Learning](#documentation-and-learning)
 - [Work Online](#work-online)
+  - [Cloud IDEs with AI](#cloud-ides-with-ai)
+  - [AI Coding Playgrounds](#ai-coding-playgrounds)
+  - [Collaborative Development](#collaborative-development)
 - [Work Locally](#work-locally)
+  - [Essential Setup](#essential-setup)
+  - [Local AI Models](#local-ai-models)
+  - [Development Environment Tools](#development-environment-tools)
+  - [Productivity Boosters](#productivity-boosters)
 - [Patterns and Best Practices](#patterns-and-best-practices)
 - [Prompts and Templates](#prompts-and-templates)
 - [Checklists](#checklists)
@@ -151,7 +158,7 @@ Set up your local environment for AI-driven development with maximum control and
 
 Run AI models locally for privacy and offline development:
 
-- [Ollama](https://ollama.ai/) - Run large language models locally (Llama, Code Llama, etc.)
+- [Ollama](https://ollama.com/) - Run large language models locally (Llama, Code Llama, etc.)
 - [LM Studio](https://lmstudio.ai/) - Desktop app for running local LLMs with a UI
 - [GPT4All](https://gpt4all.io/) - Free, private AI assistant that runs locally
 - [Continue](https://continue.dev/) - Supports local model integration with your IDE
